@@ -6,6 +6,9 @@ html {
   padding-top: 4rem;
   min-height: 100vh;
   margin-bottom: 0px;
+
+  display: flex;
+  align-items: center;
 }
 
 .headshot {
